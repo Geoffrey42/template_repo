@@ -22,6 +22,6 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 
 ## Contributing
 Pull requests are welcome.
-For more details, please refers to our [contributing file](../.github/CONTRIBUTING/contributing.md).
+For more details, please refers to our [contributing file](./.github/CONTRIBUTING/contributing.md).
 
 ## License
